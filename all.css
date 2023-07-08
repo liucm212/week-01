@@ -113,18 +113,9 @@ a {
   letter-spacing: 15.36px;
 }
 
-.d-flex {
-  display: flex;
+.text-center {
+  text-align: center;
 }
-
-.justify-content-center {
-  justify-content: center;
-}
-
-.align-items-center {
-  align-items: center;
-}
-
 .text-end {
   text-align: right;
 }
@@ -157,4 +148,11 @@ a {
 
 .info {
   width: 636px;
+}
+
+.footer-img {
+  display: inline-block;
+}
+.footer-img img {
+  display: inline-block;
 }/*# sourceMappingURL=all.css.map */

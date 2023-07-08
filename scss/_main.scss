@@ -17,3 +17,13 @@
 .info{
   width: 636px;
 }
+
+// footer
+.footer{
+  &-img{
+    display: inline-block;
+    img{
+      display: inline-block;
+    }
+  }
+}
