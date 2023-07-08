@@ -1,0 +1,85 @@
+// background
+.bg{
+  &-secondary{
+    background-color: $bg-secondary;
+  }
+  &-black{
+    background-color: $bg-black;
+  }
+}
+// margin
+.mx{
+  &-auto{
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+.me{
+  &-40{
+    margin-right: 40px;
+  }
+}
+.mb{
+  &-8{
+    margin-bottom: 8px;
+  }
+  &-40{
+    margin-bottom: 40px;
+  }
+  &-80{
+    margin-bottom: 80px;
+  }
+  &-160{
+    margin-bottom: 160px;
+  }
+}
+
+// padding
+.py{
+  &-48{
+    padding-top: 48px;
+    padding-bottom: 48px;
+  }
+  &-64{
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+}
+.pt{
+  &-160{
+    padding-top: 160px;
+  }
+}
+
+// font-size
+.h{
+  &1{
+    font-size: 128px;
+    letter-spacing: 15.36px;
+  }
+  // &2{
+  //   font-size: 32px;
+  // }
+}
+
+// flex
+.d-flex{
+  display: flex;
+}
+.justify-content{
+  &-center{
+    justify-content: center;
+  }
+}
+.align-items{
+  &-center{
+    align-items: center;
+  }
+}
+
+// text align
+.text{
+  &-end{
+    text-align: right;
+  }
+}

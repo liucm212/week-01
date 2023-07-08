@@ -1,0 +1,19 @@
+// the main setting in the page.
+.container{
+  max-width: 1296px;
+  margin: 0 auto;
+}
+
+// intro
+.intro{
+  &-content{
+    font-size: 32px;
+    width: 636px;
+    margin-left: auto;
+  }
+}
+
+// info
+.info{
+  width: 636px;
+}

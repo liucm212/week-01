@@ -1,0 +1,19 @@
+// 重複版型的設計
+
+// list
+.list{
+  &-title{
+    color: $info-primary;
+    font-size: 40px;
+    border-bottom: 1px solid $info-primary;
+    margin-bottom: 16px;
+  }
+  &-content{
+    font-size: 24px;
+  }
+  &-year{
+    font-size: 20px;
+    color: $info-secondary;
+    font-style: italic;
+  }
+}

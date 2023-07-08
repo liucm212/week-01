@@ -1,0 +1,26 @@
+// font family
+@import url('https://fonts.googleapis.com/css2?family=Castoro:ital@0;1&display=swap');
+// color variables
+$bg-white : #ffffff ;
+$bg-secondary : #EFEFEF ; 
+$bg-black : #000000;
+$info-primary : #AE0000 ;
+$info-secondary : #949494 ; 
+
+// base setting
+body{
+  line-height: 1.5;
+  font-family: 'Castoro', serif;;
+}
+
+img{
+	max-width: 100%;
+  display: block;
+  height: auto;
+}
+
+a{
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
